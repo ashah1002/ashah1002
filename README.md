@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aadi</h1>
-<h2 align="center">passionate about deep learning & autonomous systems</h2>
+<h2 align="center">i'm interested in deep learning & autonomous control/planning</h2>
 <h3 align="center">senior @ illinois mathematics and science academy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashah1002&label=Profile%20views&color=0e75b6&style=flat" alt="ashah1002" /> </p>
