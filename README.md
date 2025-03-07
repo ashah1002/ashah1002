@@ -1,7 +1,6 @@
-
 <h1 align="left">hi, i'm aadi</h1>
 <ul>
-  <li>interested in agentic & autonomous systems, perception, and multi-agent coordination<li>
+  <li>interested in agentic & autonomous systems, perception, and multi-agent coordination</li>
   <li>reach out @ ashah1 [at] imsa [dot] edu or links on the left</li>
 </ul>
 
