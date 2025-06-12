@@ -1,6 +1,6 @@
 <h1 align="left">hi, i'm aadi</h1>
 <ul>
-  <li>i study ai & philosophy at stanford</li>
+  <li>i study ai & philosophy at stanford :evergreen_tree:</li> 
   <li>i am interested in autonomous systems, multi-agent coordination, and llm reasoning</li>
   <li>reach out @ aadi2 [at] stanford [dot] edu or links on my profile</li>
 </ul>
