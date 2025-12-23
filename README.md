@@ -1,7 +1,7 @@
 <h1 align="left">hi, i'm aadi</h1>
 <ul>
-  <li>i study ai & math at stanford :evergreen_tree:</li> 
-  <li>i am interested in reinforcement learning, autonomous systems, perception</li>
+  <li>studying cs & philosophy at stanford :evergreen_tree:</li> 
+  <li>interested in reinforcement learning, robot learning, and generative models</li>
   <li>reach out @ aadi2 [at] stanford [dot] edu or links on my profile</li>
 </ul>
 
