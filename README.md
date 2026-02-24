@@ -6,5 +6,3 @@
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashah1002&label=Profile%20views&color=0e75b6&style=flat" alt="ashah1002" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
