@@ -2,7 +2,7 @@
 <ul>
   <li>studying cs & philosophy at stanford :evergreen_tree:</li> 
   <li>working on robot learning at the stanford ai lab :robot:</li>
-  <li>swe intern @ google gemini enterprise agent platform :cloud: </li> 
+  <li>swe intern @ google gemini for enterprise :cloud: </li> 
   <li>reach out @ aadi2 [at] stanford [dot] edu or links on my profile :bust_in_silhouette:</li>
 </ul>
 
